@@ -1,0 +1,620 @@
+Welcome to Mysterious Castle Adventure!
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Entrance
+What do you want to do?help
+There is a Grand_Hall at the south.
+There are no hurdles in this room.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Entrance
+What do you want to do?move
+Enter the direction in which you want to go.south
+You moved to Grand_Hall.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Grand_Hall
+What do you want to do?help
+There is a Entrance at the north.
+There is a Arena_Room at the east.
+There is a Store_Room at the south.
+There is a Dark_Room at the west.
+There are no hurdles in this room.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Grand_Hall
+What do you want to do?examine
+There is a Bat in the south. Use: It will use to kill Zombies in dark room
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Grand_Hall
+What do you want to do?take
+Enter the direction from which you want to take item.south
+You have taken the Bat.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Grand_Hall
+What do you want to do?move
+Enter the direction in which you want to go.east
+You don't have the key to Unlock the Arena_Room
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Grand_Hall
+What do you want to do?move
+Enter the direction in which you want to go.west
+You don't have the key to Unlock the Dark_Room
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Grand_Hall
+What do you want to do?move
+Enter the direction in which you want to go.south
+You moved to Store_Room.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Store_Room
+What do you want to do?examine
+There is a DR_Key in the east. Use: It will use to open the Dark Room
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Store_Room
+What do you want to do?take
+Enter the direction from which you want to take item.east
+You have taken the DR_Key.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Store_Room
+What do you want to do?examine
+There are no items in this room.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Store_Room
+What do you want to do?help
+There is a Arena_Room at the north.
+There is a Grand_Hall at the west.
+There are no hurdles in this room.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Store_Room
+What do you want to do?move
+Enter the direction in which you want to go.west
+You moved to Grand_Hall.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Grand_Hall
+What do you want to do?help
+There is a Entrance at the north.
+There is a Arena_Room at the east.
+There is a Store_Room at the south.
+There is a Dark_Room at the west.
+There are no hurdles in this room.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Grand_Hall
+What do you want to do?move west
+Invalid command.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Grand_Hall
+What do you want to do?move west
+Invalid command.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Grand_Hall
+What do you want to do?move
+Enter the direction in which you want to go.west
+The Room in which you want to enter is locked. Use DR_Key from your inventory to unlock this room.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Grand_Hall
+What do you want to do?unlock
+Enter the key.DR_Key
+You moved to Dark_Room.
+The ZOMBIE is in the SOUTH!!!! Write 'South' to face the zombie.
+You have only 3 seconds: 
+You lost the zombie fight, type faster next time!
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Grand_Hall
+What do you want to do?move 
+Enter the direction in which you want to go.west
+You moved to Dark_Room.
+The ZOMBIE is in the SOUTH!!!! Write 'South' to face the zombie.
+You have only 3 seconds: sout
+You lost the zombie fight, type faster next time!
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Grand_Hall
+What do you want to do?move
+Enter the direction in which you want to go.west
+You moved to Dark_Room.
+The ZOMBIE is in the SOUTH!!!! Write 'South' to face the zombie.
+You have only 3 seconds: south
+Solve this Ridle in 10 seconds to kill the zombie.
+Riddle ME THIS: I have cities but not houses i have moutains but not trees I have water but not fish what am i? hit
+You failed to hit the zombie.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Grand_Hall
+What do you want to do?move
+Enter the direction in which you want to go.west
+You moved to Dark_Room.
+The ZOMBIE is in the SOUTH!!!! Write 'South' to face the zombie.
+You have only 3 seconds: south
+Solve this Ridle in 10 seconds to kill the zombie.
+Riddle ME THIS: I have cities but not houses i have moutains but not trees I have water but not fish what am i? map
+You killed the zombie.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Dark_Room
+What do you want to do?examine
+There is a AR_Key in the north. Use: It will use to open the Arena Room
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Dark_Room
+What do you want to do?take
+Enter the direction from which you want to take item.north
+You have taken the AR_Key.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Dark_Room
+What do you want to do?move     
+Enter the direction in which you want to go.east
+You moved to Grand_Hall.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Grand_Hall
+What do you want to do?move
+Enter the direction in which you want to go.east
+The Room in which you want to enter is locked. Use AR_Key from your inventory to unlock this room.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Grand_Hall
+What do you want to do?unlock
+Enter the key.AR_Key
+You moved to Arena_Room.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Arena_Room
+What do you want to do?examine
+There is a Gun in the north. Use: It will use to kill Beast in Miramar room.
+There is a MR_Key in the east. Use: It will use to open the Miramar Room
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Arena_Room
+What do you want to do?take
+Enter the direction from which you want to take item.north
+You have taken the Gun.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Arena_Room
+What do you want to do?take
+Enter the direction from which you want to take item.east
+You have taken the MR_Key.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Arena_Room
+What do you want to do?move
+Enter the direction in which you want to go.west
+You moved to Grand_Hall.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Grand_Hall
+What do you want to do?move
+Enter the direction in which you want to go.west
+You moved to Dark_Room.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Dark_Room
+What do you want to do?examine
+There are no items in this room.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Dark_Room
+What do you want to do?help
+There is a Grand_Hall at the east.
+There is a Miramar_Room at the south.
+There are no hurdles in this room.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Dark_Room
+What do you want to do?move
+Enter the direction in which you want to go.south
+The Room in which you want to enter is locked. Use MR_Key from your inventory to unlock this room.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Dark_Room
+What do you want to do?MR_Key
+Invalid command.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Dark_Room
+What do you want to do?unlock
+Enter the key.MR_Key
+You moved to Miramar_Room.
+The BEAST is in the NORTH!!!! Write 'north' to face the beast.
+You have 3 seconds: north
+Write 'FIRE' to attack the beast: fire
+You hit the beast with fire 1/3.
+The beast has moved to the WEST!
+The BEAST is in the WEST!!!! Write 'west' to face the beast.
+You have 3 seconds: west
+Write 'FIRE' to attack the beast: fire
+You hit the beast with fire 2/3.
+The beast has moved to the SOUTH!
+The BEAST is in the SOUTH!!!! Write 'south' to face the beast.
+You have 3 seconds: sou
+You lost the beast fight, type faster next time!
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Dark_Room
+What do you want to do?move
+Enter the direction in which you want to go.south
+You moved to Miramar_Room.
+The BEAST is in the NORTH!!!! Write 'north' to face the beast.
+You have 3 seconds: north
+Write 'FIRE' to attack the beast: fire
+You hit the beast with fire 1/3.
+The beast has moved to the WEST!
+The BEAST is in the WEST!!!! Write 'west' to face the beast.
+You have 3 seconds: west
+Write 'FIRE' to attack the beast: fire
+You hit the beast with fire 2/3.
+The beast has moved to the SOUTH!
+The BEAST is in the SOUTH!!!! Write 'south' to face the beast.
+You have 3 seconds: south
+Write 'FIRE' to attack the beast: fire
+You hit the beast with fire 3/3.
+You defeated the beast!
+You have absorbed beast Aura!! You are Mythical now
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Miramar_Room
+What do you want to do?examine
+There are no items in this room.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Miramar_Room
+What do you want to do?help
+There is a Dark_Room at the north.
+There is a Sanhok_Room at the south.
+There are no hurdles in this room.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Miramar_Room
+What do you want to do?move
+Enter the direction in which you want to go.south
+You moved to Sanhok_Room.
+The beast is in the NORTH! Shout 'AAA' to kill it.
+Listening for a shout...
+Volume Level: 0.01
+Volume Level: 0.01
+Volume Level: 0.03
+Volume Level: 0.05
+Volume Level: 0.03
+Volume Level: 0.07
+Volume Level: 0.07
+Volume Level: 0.10
+Volume Level: 0.16
+Volume Level: 0.11
+Volume Level: 0.12
+Volume Level: 0.12
+Volume Level: 0.13
+Volume Level: 0.13
+Volume Level: 0.14
+Volume Level: 0.13
+Volume Level: 0.12
+Volume Level: 0.12
+Volume Level: 0.14
+Volume Level: 0.11
+Volume Level: 0.13
+Volume Level: 0.13
+Volume Level: 0.15
+Volume Level: 0.19
+Volume Level: 0.24
+Volume Level: 0.12
+Volume Level: 0.12
+Volume Level: 0.13
+Volume Level: 0.19
+Volume Level: 0.10
+Volume Level: 0.09
+Volume Level: 0.09
+Volume Level: 0.15
+Volume Level: 0.09
+Volume Level: 0.09
+Volume Level: 0.11
+Volume Level: 0.08
+Volume Level: 0.09
+Volume Level: 0.09
+Volume Level: 0.13
+Volume Level: 0.17
+Volume Level: 0.14
+Volume Level: 0.15
+Volume Level: 0.18
+Volume Level: 0.21
+Volume Level: 0.14
+Volume Level: 0.16
+Volume Level: 0.11
+Volume Level: 0.10
+Volume Level: 0.16
+Volume Level: 0.10
+Volume Level: 0.20
+Volume Level: 0.16
+Volume Level: 0.15
+Volume Level: 0.23
+Volume Level: 0.31
+Volume Level: 0.42
+Volume Level: 0.35
+Volume Level: 0.53
+Volume Level: 0.58
+Volume Level: 0.88
+Volume Level: 0.87
+Volume Level: 1.18
+Volume Level: 1.15
+Volume Level: 1.52
+Volume Level: 1.22
+Volume Level: 1.57
+Volume Level: 1.42
+Volume Level: 1.56
+Volume Level: 1.52
+Volume Level: 1.33
+Volume Level: 1.55
+Volume Level: 1.53
+Volume Level: 1.65
+Volume Level: 1.56
+Volume Level: 1.38
+Volume Level: 1.64
+Volume Level: 1.52
+Volume Level: 1.51
+Volume Level: 1.83
+Volume Level: 1.78
+Volume Level: 1.87
+Volume Level: 2.22
+Volume Level: 1.98
+Volume Level: 1.91
+Volume Level: 2.10
+Volume Level: 1.85
+Volume Level: 1.78
+Volume Level: 1.99
+Volume Level: 2.09
+Volume Level: 2.06
+Volume Level: 2.19
+Volume Level: 2.39
+Volume Level: 2.32
+Volume Level: 2.25
+Volume Level: 2.38
+Volume Level: 2.42
+Volume Level: 2.26
+Volume Level: 2.17
+Volume Level: 2.56
+Volume Level: 2.50
+Volume Level: 2.34
+Volume Level: 2.41
+Volume Level: 2.65
+Volume Level: 2.59
+Volume Level: 2.58
+Volume Level: 2.60
+Volume Level: 2.86
+Volume Level: 2.60
+Volume Level: 2.33
+Volume Level: 2.42
+Volume Level: 2.84
+Volume Level: 3.09
+Volume Level: 3.27
+Volume Level: 3.14
+Volume Level: 3.08
+Volume Level: 3.20
+Volume Level: 3.38
+Volume Level: 3.41
+Volume Level: 3.35
+Volume Level: 3.78
+Volume Level: 4.44
+Volume Level: 4.24
+Volume Level: 3.74
+Volume Level: 3.44
+Volume Level: 3.46
+Volume Level: 3.54
+Volume Level: 4.00
+Volume Level: 4.01
+Volume Level: 3.43
+Volume Level: 3.60
+Volume Level: 3.91
+Volume Level: 3.45
+Volume Level: 3.68
+Volume Level: 3.82
+Volume Level: 4.18
+Volume Level: 4.44
+Volume Level: 4.67
+Volume Level: 4.12
+Volume Level: 4.60
+Volume Level: 5.05
+Volume Level: 5.86
+Volume Level: 5.13
+Volume Level: 5.90
+Volume Level: 6.58
+Volume Level: 6.54
+Volume Level: 5.36
+Volume Level: 4.75
+Volume Level: 5.02
+Volume Level: 5.14
+Volume Level: 5.58
+Volume Level: 5.24
+Volume Level: 5.61
+Volume Level: 5.84
+Volume Level: 6.47
+Volume Level: 6.74
+Volume Level: 5.61
+Volume Level: 5.76
+Volume Level: 5.33
+Volume Level: 5.94
+Volume Level: 6.00
+Volume Level: 5.55
+Volume Level: 5.86
+Volume Level: 5.32
+Volume Level: 5.55
+Volume Level: 5.67
+Volume Level: 5.82
+Volume Level: 5.99
+Volume Level: 6.02
+Volume Level: 5.76
+Volume Level: 6.47
+Volume Level: 6.39
+Volume Level: 7.46
+Volume Level: 7.82
+Volume Level: 7.68
+Volume Level: 7.08
+Volume Level: 8.00
+Volume Level: 8.12
+Volume Level: 7.67
+Volume Level: 9.61
+Volume Level: 7.77
+Volume Level: 6.80
+Volume Level: 7.60
+Volume Level: 6.51
+Volume Level: 7.75
+Volume Level: 7.22
+Volume Level: 8.33
+Volume Level: 8.91
+No shout detected.
+You didn't shout loud enough. The beast defeated you.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Miramar_Room
+What do you want to do?move
+Enter the direction in which you want to go.south
+You moved to Sanhok_Room.
+The beast is in the NORTH! Shout 'AAA' to kill it.
+Listening for a shout...
+Volume Level: 6.98
+Volume Level: 0.51
+Volume Level: 0.14
+Volume Level: 0.10
+Volume Level: 0.04
+Volume Level: 0.05
+Volume Level: 0.03
+Volume Level: 0.08
+Volume Level: 0.11
+Volume Level: 0.13
+Volume Level: 0.11
+Volume Level: 0.08
+Volume Level: 0.08
+Volume Level: 0.09
+Volume Level: 0.10
+Volume Level: 0.13
+Volume Level: 0.17
+Volume Level: 0.17
+Volume Level: 0.09
+Volume Level: 0.10
+Volume Level: 0.08
+Volume Level: 0.07
+Volume Level: 0.12
+Volume Level: 0.07
+Volume Level: 0.09
+Volume Level: 0.10
+Volume Level: 0.08
+Volume Level: 0.08
+Volume Level: 0.09
+Volume Level: 0.10
+Volume Level: 0.13
+Volume Level: 0.08
+Volume Level: 0.07
+Volume Level: 0.08
+Volume Level: 0.11
+Volume Level: 0.08
+Volume Level: 0.12
+Volume Level: 0.08
+Volume Level: 0.09
+Volume Level: 0.13
+Volume Level: 0.12
+Volume Level: 0.09
+Volume Level: 0.09
+Volume Level: 0.05
+Volume Level: 0.08
+Volume Level: 0.06
+Volume Level: 0.12
+Volume Level: 0.11
+Volume Level: 0.09
+Volume Level: 0.08
+Volume Level: 0.08
+Volume Level: 0.15
+Volume Level: 0.13
+Volume Level: 0.12
+Volume Level: 0.07
+Volume Level: 0.09
+Volume Level: 0.09
+Volume Level: 0.16
+Volume Level: 0.17
+Volume Level: 0.13
+Volume Level: 0.13
+Volume Level: 0.14
+Volume Level: 0.81
+Volume Level: 1.21
+Volume Level: 2.25
+Volume Level: 3.46
+Volume Level: 4.34
+Volume Level: 5.06
+Volume Level: 5.31
+Volume Level: 6.81
+Volume Level: 8.16
+Volume Level: 8.98
+Volume Level: 9.14
+Volume Level: 10.25
+Detected a shout!
+You killed the beast with your shout!
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Sanhok_Room
+What do you want to do?help
+There is a Exit at the west.
+There is a Miramar_Room at the north.
+There are no hurdles in this room.
+
+There are exits in the following directions: north, east, south, and west.
+Available actions: move, look, unlock, inventory, take, drop, examine, save, load, help, quit.
+You are in Sanhok_Room
+What do you want to do?move
+Enter the direction in which you want to go.west
+You are about to complete the Castle Adventure. Just Solve the Riddle.
+RIDDLE ME THIS: I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?air
+Congratulations! You Completed the Castle Adventure.
