@@ -1,7 +1,7 @@
 from room import *
 
 Zombie_Alive = True
-Beast_Alive = False
+Beast_Alive = True
 Venom_Alive = True
 
 rooms = {

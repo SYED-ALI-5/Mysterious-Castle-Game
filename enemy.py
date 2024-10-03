@@ -11,7 +11,7 @@ def zombie_fight():
         print(gs.current_room.name)
         try:
             input1 = inputimeout(
-                "The ZOMBIE is in the WEST!!!! Write 'South' to face the zombie.\nYou have only 3 seconds: ",
+                "The ZOMBIE is in the WEST!!!! Write 'West' to face the zombie.\nYou have only 3 seconds: ",
                 timeout=3)
             if input1.lower() != 'west':
                 print("You have not moved to the west. The zombie got you!")

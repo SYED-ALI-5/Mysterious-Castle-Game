@@ -76,16 +76,14 @@ def examine_item(curRoom):
 
 
 def save():
-    global inventory
-    global Zombie_Alive, Beast_Alive, Venom_Alive
 
     # Create a dictionary to store the game state
     game_state = {
         'gs.current_room': gs.current_room.name,
         'gs.inventory': gs.inventory,
-        'Zombie_Alive': Zombie_Alive,
-        'Beast_Alive': Beast_Alive,
-        'Venom_Alive': Venom_Alive
+        'Zombie_Alive': gs.Zombie_Alive,
+        'Beast_Alive': gs.Beast_Alive,
+        'Venom_Alive': gs.Venom_Alive
     }
 
     # Save the game state as a JSON string in a text file
@@ -95,9 +93,6 @@ def save():
 
 
 def load():
-    
-    global inventory
-    global Zombie_Alive, Beast_Alive, Venom_Alive
 
     try:
         # Read the saved game state from the text file
@@ -107,9 +102,9 @@ def load():
         # Restore the game state
         gs.current_room = gs.rooms.get(game_state['gs.current_room'])
         gs.inventory = game_state['gs.inventory']
-        Zombie_Alive = game_state['Zombie_Alive']
-        Beast_Alive = game_state['Beast_Alive']
-        Venom_Alive = game_state['Venom_Alive']
+        gs.Zombie_Alive = game_state['Zombie_Alive']
+        gs.Beast_Alive = game_state['Beast_Alive']
+        gs.Venom_Alive = game_state['Venom_Alive']
 
         print("\nGame loaded successfully!")
         print(f"\nYou are in {gs.current_room.name}.")
